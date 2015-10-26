@@ -1,2 +1,2 @@
 # handlebars-java-android-demo
-Handlebars Java demo on Android.
+Demo Android app that shows how to use handlebars.java on a WebView.
