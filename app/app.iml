@@ -96,6 +96,7 @@
     <orderEntry type="library" exported="" name="appcompat-v7-23.1.0" level="project" />
     <orderEntry type="library" exported="" name="rhino-1.7R4" level="project" />
     <orderEntry type="library" exported="" name="handlebars-2.3.2" level="project" />
+    <orderEntry type="library" exported="" name="commons-io-2.4" level="project" />
     <orderEntry type="library" exported="" name="support-v4-23.1.0" level="project" />
     <orderEntry type="library" exported="" name="commons-lang3-3.1" level="project" />
   </component>
